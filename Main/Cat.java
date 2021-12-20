@@ -1,3 +1,4 @@
+
 package HomeTaskSeven.Main;
 
 public class Cat {

@@ -1,3 +1,4 @@
+//forCheck
 package HomeTaskSeven.Main;
 
 public class WorkClass {
